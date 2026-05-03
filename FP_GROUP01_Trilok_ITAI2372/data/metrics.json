@@ -1,0 +1,60 @@
+{
+  "n_test": 1518,
+  "accuracy": 0.9262187088274044,
+  "precision": 0.8828671328671329,
+  "recall": 0.9181818181818182,
+  "f1": 0.9001782531194296,
+  "roc_auc": 0.9756282870022538,
+  "confusion_matrix": [
+    [
+      901,
+      67
+    ],
+    [
+      45,
+      505
+    ]
+  ],
+  "feature_importance": [
+    {
+      "feature": "koi_prad",
+      "importance": 0.2306902557968872
+    },
+    {
+      "feature": "koi_model_snr",
+      "importance": 0.14862929613831607
+    },
+    {
+      "feature": "koi_period",
+      "importance": 0.1280613630303752
+    },
+    {
+      "feature": "koi_depth",
+      "importance": 0.10085079279271747
+    },
+    {
+      "feature": "koi_insol",
+      "importance": 0.09654486525445119
+    },
+    {
+      "feature": "koi_duration",
+      "importance": 0.09033140684806786
+    },
+    {
+      "feature": "koi_teq",
+      "importance": 0.0836568327155141
+    },
+    {
+      "feature": "koi_steff",
+      "importance": 0.04506234588981483
+    },
+    {
+      "feature": "koi_slogg",
+      "importance": 0.038834035919712115
+    },
+    {
+      "feature": "koi_srad",
+      "importance": 0.03733880561414391
+    }
+  ]
+}
