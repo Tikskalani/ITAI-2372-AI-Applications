@@ -1,9 +1,0 @@
-# APEX v9 — Career Intelligence Platform
-# Pure Python stdlib — no pip packages required!
-# Python 3.8+ is all you need.
-#
-# The only external services you need API keys for:
-#   1. OpenAI API  → https://platform.openai.com/api-keys
-#   2. JSearch API → https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
-#
-# Both keys go in config.json (see config.example.json)
